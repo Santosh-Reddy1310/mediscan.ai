@@ -236,19 +236,6 @@ black .
 
 ---
 
-## 📱 Screenshots
-
-### Main Dashboard
-![Dashboard](https://imgur.com/dashboard.png)
-
-### Report Analysis
-![Analysis](https://imgur.com/analysis.png)
-
-### AI Summary
-![Summary](https://imgur.com/summary.png)
-
----
-
 ## 🛠️ Built With
 
 - **🐍 Python** - Core programming language
@@ -265,9 +252,9 @@ black .
 
 **Reddy Santosh Kumar**
 - 🎓 B.Tech @ SRK Institute of Technology, Vijayawada
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐱 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: [your-email@example.com](mailto:reddysantosh1310@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/reddy-santosh-kumar-a5b9622a2/)
+- 🐱 GitHub: [github.com/your-username](https://github.com/Santosh-Reddy1310)
 
 ---
 
@@ -291,13 +278,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
----
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/mediscan-ai&type=Date)](https://star-history.com/#your-username/mediscan-ai&Date)
-
----
 
 ## 🚀 Deploy to Cloud
 
