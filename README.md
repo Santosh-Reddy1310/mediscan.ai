@@ -252,9 +252,9 @@ black .
 
 **Reddy Santosh Kumar**
 - 🎓 B.Tech @ SRK Institute of Technology, Vijayawada
-- 📧 Email: [your-email@example.com](mailto:reddysantosh1310@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/reddy-santosh-kumar-a5b9622a2/)
-- 🐱 GitHub: [github.com/your-username](https://github.com/Santosh-Reddy1310)
+- 📧 Email: [Click Here ](mailto:reddysantosh1310@gmail.com)
+- 💼 LinkedIn: [Check this Out](https://www.linkedin.com/in/reddy-santosh-kumar-a5b9622a2/)
+- 🐱 GitHub: [make it star](https://github.com/Santosh-Reddy1310)
 
 ---
 

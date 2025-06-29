@@ -1,7 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pkl
+
 
 # Streamlit secrets
 .streamlit/secrets.toml
